@@ -2,6 +2,9 @@
 <h2><center> Realization of a web application for the automatic text summary </center></h2>
 <h3><center><font color=blue> Automatic Text Summarization and Categorization </center><h3>
 
+# Test the website
+After reading the input text and the number of sentences from the user and getting the model name and the language, then pass that information to the main function that apply the text summarization and get the right category .
+
 ![](images/ui.svg)
 
 <h1>Introduction</h1>
