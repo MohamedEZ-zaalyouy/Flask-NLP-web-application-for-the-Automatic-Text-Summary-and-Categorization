@@ -2,10 +2,7 @@
 <h2><center> Realization of a web application for the automatic text summary </center></h2>
 <h3><center><font color=blue> Automatic Text Summarization and Categorization </center><h3>
 
-## Realized by:
---------------------------------------------
-- **Mohamed EZ-ZZAALYOUY**
---------------------------------------------
+![](images/ui.svg)
 
 <h1>Introduction</h1>
 Summarization is the task of condensing a piece of text to a shorter version, reducing the size of the initial text while at the same time preserving key informational elements and the meaning of content. Since manual text summarization is a time expensive and generally laborious task, the automatization of the task is gaining increasing popularity and therefore constitutes a strong motivation for academic research. Automatic text summarization is a common problem in machine learning and natural language processing (NLP).
